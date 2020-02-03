@@ -26,7 +26,7 @@ MonoBehaviour:
     SerializationNodes:
     - Name: liveVersionID
       Entry: 3
-      Data: 70
+      Data: 78
     - Name: generatedVersionID
       Entry: 3
       Data: 0
@@ -66,10 +66,10 @@ MonoBehaviour:
       Data: UnityEngine.Vector2, UnityEngine.CoreModule
     - Name: 
       Entry: 4
-      Data: 73.97957
+      Data: 113.979568
     - Name: 
       Entry: 4
-      Data: -83.01501
+      Data: -152.015015
     - Name: 
       Entry: 8
       Data: 
@@ -725,7 +725,7 @@ MonoBehaviour:
       Data: UnityEngine.Vector2, UnityEngine.CoreModule
     - Name: 
       Entry: 4
-      Data: -157
+      Data: -164
     - Name: 
       Entry: 4
       Data: -99
@@ -912,10 +912,10 @@ MonoBehaviour:
       Data: UnityEngine.Vector2, UnityEngine.CoreModule
     - Name: 
       Entry: 4
-      Data: -359
+      Data: -11
     - Name: 
       Entry: 4
-      Data: -142
+      Data: -312
     - Name: 
       Entry: 8
       Data: 
@@ -1051,10 +1051,10 @@ MonoBehaviour:
       Data: UnityEngine.Vector2, UnityEngine.CoreModule
     - Name: 
       Entry: 4
-      Data: -318
+      Data: 30
     - Name: 
       Entry: 4
-      Data: -222
+      Data: -407
     - Name: 
       Entry: 8
       Data: 
